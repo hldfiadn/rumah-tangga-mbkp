@@ -1,0 +1,15 @@
+7 Agustus 2025
+
+kenapa data cleaning nya yang lain bagus, sementara Katakeja sisa 5?
+
+- sebenernya dropna nya kayak gak bener gitu (masih belum paham kenapa)
+- jadi dicoba 2 versi kan
+	- 1) dataframe df_cleaned (yg setelahnya di save csv), dan
+	- 2) df_cleaned.csv yang dipanggil lagi dengan read_csv
+- hasilya
+	- 1) udah gak ada isna
+	- 2) masih ada isna banyak dan hasilnya cuman jadi 84 baris (dikit banget??)
+
+- kesimpulan sementara :
+	ada suatu alasan kenapa dropna nya gak berhasil hapus semua isna (mungkin karena format atau apa blm dapet jawabannya), atau mungkin karena versi kedua disimpen dulu baru read_csv lagi (udh coba cari tau tapi tetep ga dapet)
+	untuk sementara biarin dulu aja kayak gitu, kita coba formatting yang lain dulu aja ya, biar bisa selesai perhitungannya
