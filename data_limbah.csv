@@ -1,0 +1,845 @@
+ID,Desa/Kelurahan,Sumber Limbah,Pengolahan
+22180,Lolong,Rumah Tangga,Tidak Diolah
+22190,Paubokol,Rumah Tangga,Tidak ada
+22195,Paubokol,Rumah Tangga,Tidak ada
+22200,Paubokol,Tidak ada,Tidak ada
+22205,Paubokol,Rumah Tangga,Tidak ada
+22206,Paubokol,Rumah Tangga,Tidak Diolah
+22208,Paubokol,Tidak ada,Tidak ada
+22210,Paubokol,Rumah Tangga,Tidak Diolah
+22223,Paubokol,Rumah Tangga,Tidak ada
+22226,Paubokol,Rumah Tangga,Tidak Diolah
+22227,Paubokol,Rumah Tangga,Tidak ada
+22233,Paubokol,Rumah Tangga,Tidak Diolah
+22236,Paubokol,Tidak ada,Tidak ada
+22238,Paubokol,Rumah Tangga,Tidak Diolah
+22244,Paubokol,,
+22245,Paubokol,Rumah Tangga,Tidak Diolah
+22253,Paubokol,Rumah Tangga,Tidak Diolah
+22259,Duawutun,Rumah Tangga,Tidak ada
+22260,Duawutun,Rumah Tangga,Tidak Diolah
+22262,Duawutun,Rumah Tangga,Tidak Diolah
+22272,Duawutun,,
+22297,Balauring,Rumah Tangga,Tidak Diolah
+22298,Balauring,Pertanian dan Perkebunan,Diolah
+22300,Balauring,Rumah Tangga,Tidak Diolah
+22301,Balauring,Rumah Tangga,Tidak Diolah
+22303,Balauring,Rumah Tangga,Tidak Diolah
+22309,Balauring,Pertanian dan Perkebunan,Tidak ada
+22325,Labalimut,Rumah Tangga,Diolah
+22326,Labalimut,Rumah Tangga,Tidak Diolah
+22327,Labalimut,Rumah Tangga,Diolah
+22328,Labalimut,Rumah Tangga,Tidak Diolah
+22329,Labalimut,Rumah Tangga Pertanian dan Perkebunan,Tidak ada Diolah
+22330,Labalimut,Rumah Tangga Pertanian dan Perkebunan,Diolah
+22332,Nubamado,,
+22334,Nubamado,Tidak ada,Tidak ada
+22335,Nubamado,Rumah Tangga Pertanian dan Perkebunan Peternakan Perikanan,Tidak Diolah
+22336,Nubamado,Rumah Tangga,Tidak Diolah
+22338,Nubamado,Rumah Tangga Peternakan dan Perikanan,Tidak Diolah
+22339,Nubamado,Pertanian dan Perkebunan Rumah Tangga,Tidak Diolah
+22340,Nubamado,Tidak ada,Tidak ada
+22342,Nubamado,Rumah Tangga Pertanian dan Perkebunan Peternakan Perikanan,Tidak Diolah ada
+22343,Nubamado,Tidak ada,Tidak ada
+22344,Nubamado,Rumah Tangga,Diolah
+22345,Nubamado,Rumah Tangga,Tidak Diolah
+22346,Nubamado,Rumah Tangga,Tidak Diolah
+22347,Nubamado,Rumah Tangga Pertanian dan Perkebunan Peternakan Perikanan,Tidak Diolah
+22348,Nubamado,Rumah Tangga,Tidak ada
+22349,Nubamado,Rumah Tangga,Tidak Diolah
+22350,Nubamado,Rumah Tangga,Tidak Diolah
+22351,Nubamado,Tidak ada,Tidak ada
+22352,Nubamado,Tidak ada,Tidak ada
+22353,Nubamado,Rumah Tangga,Tidak Diolah
+22354,Nubamado,Rumah Tangga,Tidak Diolah
+22355,Nubamado,Tidak ada,Tidak ada
+22356,Nubamado,Rumah Tangga Pertanian dan Perkebunan Peternakan Perikanan,Tidak ada
+22358,Nubamado,Rumah Tangga Pertanian dan Perkebunan Peternakan Perikanan,Tidak Diolah ada
+22362,Balauring,Rumah Tangga,Tidak Diolah
+22363,Balauring,Pertanian dan Perkebunan,Tidak Diolah
+22364,Balauring,Rumah Tangga,Tidak Diolah
+22365,Labalimut,Rumah Tangga,Diolah
+22366,Balauring,Rumah Tangga,Tidak Diolah
+22367,Labalimut,Tidak ada,Tidak ada
+22368,Labalimut,Rumah Tangga,Diolah
+22369,Balauring,Rumah Tangga,Tidak Diolah
+22370,Balauring,Rumah Tangga,Tidak Diolah
+22371,Labalimut,Rumah Tangga,Diolah
+22372,Labalimut,Rumah Tangga,Tidak ada
+22373,Labalimut,Rumah Tangga,Diolah
+22374,Labalimut,Rumah Tangga Pertanian dan Perkebunan,Diolah
+22377,Labalimut,,
+22378,Labalimut,Rumah Tangga,Tidak Diolah
+22379,Labalimut,Rumah Tangga,Diolah
+22380,Pada,Rumah Tangga,Tidak Diolah
+22381,Pada,Rumah Tangga Pertanian dan Perkebunan,Tidak Diolah
+22390,Balauring,Rumah Tangga,Tidak Diolah
+22391,Balauring,Rumah Tangga,Tidak Diolah
+22392,Balauring,Pertanian dan Perkebunan,Tidak Diolah
+22393,Balauring,Rumah Tangga,Tidak Diolah
+22394,Balauring,Pertanian dan Perkebunan,Diolah
+22395,Balauring,Rumah Tangga,Tidak Diolah
+22396,Labalimut,Rumah Tangga,Tidak Diolah
+22397,Labalimut,Rumah Tangga,Diolah
+22398,Labalimut,,
+22399,Labalimut,Rumah Tangga,Diolah
+22411,Labalimut,Peternakan dan Perikanan,Tidak Diolah
+22414,Dikesare,Rumah Tangga,Tidak Diolah
+22415,Tubuk Rajan,,
+22420,Tubungwalang,Rumah Tangga,Tidak ada
+22424,Benihading,Pertanian dan Perkebunan,Diolah
+22440,Todanara,Pertanian dan Perkebunan,Tidak Diolah
+22441,Todanara,Rumah Tangga,Diolah
+22442,Todanara,Rumah Tangga,Diolah
+22443,Todanara,Pertanian dan Perkebunan,Diolah
+22446,Duawutun,Tidak ada,Tidak ada
+22447,Bour,Rumah Tangga Pertanian dan Perkebunan Peternakan Perikanan,Diolah
+22456,Duawutun,Tidak ada,Tidak ada
+22457,Duawutun,Tidak ada,Tidak ada
+22458,Duawutun,Tidak ada,Tidak ada
+22459,Duawutun,Tidak ada,Tidak ada
+22460,Duawutun,Tidak ada,Tidak ada
+22461,Duawutun,Tidak ada,Tidak ada
+22462,Duawutun,,
+22463,Mahal,Rumah Tangga,Diolah
+22464,Duawutun,Tidak ada,Tidak ada
+22465,Duawutun,Tidak ada,Tidak ada
+22466,Duawutun,Tidak ada,Tidak ada
+22467,Duawutun,Tidak ada,Tidak ada
+22468,Duawutun,Tidak ada,Tidak ada
+22471,Duawutun,Tidak ada,Tidak ada
+22473,Duawutun,Tidak ada,Tidak ada
+22474,Duawutun,Tidak ada,Tidak ada
+22475,Duawutun,Tidak ada,Tidak ada
+22479,Duawutun,Tidak ada,Tidak ada
+22480,Duawutun,Tidak ada,Tidak ada
+22481,Duawutun,Tidak ada,Tidak ada
+22482,Duawutun,Tidak ada,Tidak ada
+22483,Dikesare,,
+22484,Duawutun,,
+22485,Duawutun,,
+22486,Duawutun,Tidak ada,Tidak ada
+22487,Duawutun,,
+22488,Duawutun,,
+22493,Labalimut,Pertanian dan Perkebunan,Diolah
+22497,Pada,Rumah Tangga,Tidak Diolah
+22498,Labalimut,Rumah Tangga,Diolah
+22500,Dulitukan,Rumah Tangga,Diolah
+22502,Nubamado,Tidak ada,Tidak ada
+22503,Pada,Tidak ada,Tidak ada
+22504,Pada,Rumah Tangga,Tidak Diolah
+22508,Riangbao,Tidak ada,Tidak ada
+22509,Riangbao,Pertanian dan Perkebunan,Tidak Diolah
+22510,Riangbao,Rumah Tangga,Tidak Diolah
+22511,Riangbao,Rumah Tangga,Tidak Diolah
+22512,Riangbao,Rumah Tangga,Tidak Diolah
+22513,Riangbao,,
+22514,Riangbao,Rumah Tangga,Tidak Diolah
+22515,Riangbao,Pertanian dan Perkebunan,Diolah
+22516,Riangbao,Pertanian dan Perkebunan,Tidak Diolah
+22517,Riangbao,Rumah Tangga,Tidak Diolah
+22518,Riangbao,,
+22519,Riangbao,Pertanian dan Perkebunan,Diolah
+22522,Riangbao,Rumah Tangga,Tidak Diolah
+22523,Riangbao,Peternakan dan Perikanan,Tidak Diolah
+22524,Riangbao,Rumah Tangga,Tidak Diolah
+22525,Riangbao,Rumah Tangga,Tidak Diolah
+22526,Riangbao,Pertanian dan Perkebunan,Diolah
+22527,Riangbao,Peternakan dan Perikanan,Diolah
+22529,Riangbao,Rumah Tangga,Diolah
+22530,Riangbao,Pertanian dan Perkebunan,Diolah
+22531,Riangbao,Pertanian dan Perkebunan,Diolah
+22532,Riangbao,,
+22534,Riangbao,Pertanian dan Perkebunan,Diolah
+22535,Riangbao,Peternakan dan Perikanan,Tidak Diolah
+22536,Riangbao,Rumah Tangga,Diolah
+22538,Balauring,Rumah Tangga,Tidak Diolah
+22540,Balauring,Rumah Tangga,Tidak Diolah
+22541,Balauring,Rumah Tangga,Tidak Diolah
+22542,Muruona,Rumah Tangga,Tidak ada
+22543,Balauring,Rumah Tangga,Tidak Diolah
+22544,Balauring,Rumah Tangga,Tidak Diolah
+22545,Muruona,,
+22546,Riangbao,Tidak ada,Tidak ada
+22547,Balauring,Rumah Tangga,Diolah
+22548,Muruona,Rumah Tangga,Tidak Diolah
+22549,Balauring,Rumah Tangga,Tidak ada
+22551,Muruona,Rumah Tangga,Tidak Diolah
+22553,Pada,Rumah Tangga,Tidak Diolah ada
+22559,Pada,Rumah Tangga,Tidak ada
+22560,Muruona,Rumah Tangga,Tidak Diolah
+22561,Pada,Rumah Tangga,Tidak Diolah
+22566,Paubokol,Rumah Tangga,Tidak Diolah
+22567,Dulitukan,Rumah Tangga,Diolah
+22568,Paubokol,Rumah Tangga,Tidak Diolah
+22569,Nubamado,Tidak ada,Tidak ada
+22570,Kalikur,Pertanian dan Perkebunan,Diolah
+22571,Bour,Peternakan dan Perikanan,Diolah
+22572,Nubamado,Rumah Tangga,Tidak Diolah
+22573,Bour,Rumah Tangga Pertanian dan Perkebunan Peternakan Perikanan,Diolah Tidak
+22574,Pada,Tidak ada,Tidak ada
+22575,Pada,Rumah Tangga,Diolah
+22576,Muruona,Rumah Tangga,Tidak Diolah
+22578,Kalikur,Pertanian dan Perkebunan,Tidak Diolah
+22579,Pada,Rumah Tangga,Tidak Diolah
+22580,Tubungwalang,Rumah Tangga,Tidak ada
+22582,Muruona,Rumah Tangga,Tidak Diolah
+22583,Tubungwalang,Rumah Tangga,Tidak Diolah
+22584,Kalikur,Rumah Tangga,Tidak ada
+22585,Muruona,Rumah Tangga,Tidak Diolah
+22587,Nubamado,Rumah Tangga Pertanian dan Perkebunan Peternakan Perikanan,Tidak Diolah
+22589,Nubamado,Tidak ada,Tidak ada
+22591,Balauring,Rumah Tangga,Tidak Diolah
+22593,Bour,Pertanian dan Perkebunan,Diolah
+22595,Balauring,Rumah Tangga,Tidak Diolah
+22596,Balauring,,
+22597,Bour,Rumah Tangga,Tidak Diolah
+22598,Balauring,Rumah Tangga,Tidak Diolah
+22617,Merdeka,Peternakan dan Perikanan,Tidak Diolah
+22618,Pada,Tidak ada,Tidak ada
+22619,Muruona,,
+22620,Merdeka,Rumah Tangga,Tidak Diolah
+22621,Kalikur,Pertanian dan Perkebunan,Tidak Diolah
+22623,Pada,Rumah Tangga,Tidak Diolah
+22624,Pada,Rumah Tangga,Tidak ada
+22625,Kalikur,Pertanian dan Perkebunan,Tidak Diolah
+22626,Tubungwalang,Rumah Tangga,Tidak ada
+22628,Mahal,Rumah Tangga,Tidak Diolah
+22643,Pada,Rumah Tangga,Tidak Diolah
+22644,Pada,Rumah Tangga,Tidak Diolah
+22646,Dulitukan,Peternakan dan Perikanan,Tidak Diolah
+22647,Dulitukan,Rumah Tangga Peternakan dan Perikanan,Diolah Tidak
+22648,Dulitukan,Rumah Tangga,Diolah
+22651,Tubungwalang,Rumah Tangga,Tidak Diolah
+22652,Dulitukan,Rumah Tangga Peternakan dan Perikanan,Diolah Tidak
+22653,Tubungwalang,Rumah Tangga,Diolah
+22654,Tubungwalang,Rumah Tangga,Tidak Diolah
+22655,Tubungwalang,Pertanian dan Perkebunan,Tidak Diolah
+22656,Dulitukan,Rumah Tangga Peternakan dan Perikanan,Diolah Tidak
+22657,Dulitukan,Rumah Tangga Peternakan dan Perikanan,Diolah Tidak
+22659,Muruona,Rumah Tangga,Tidak Diolah
+22662,Tubuk Rajan,Peternakan dan Perikanan,Diolah
+22663,Puor,Rumah Tangga Pertanian dan Perkebunan,Diolah Tidak ada
+22664,Puor,Rumah Tangga,Diolah
+22666,Tubungwalang,Rumah Tangga,Tidak ada
+22667,Tubungwalang,Rumah Tangga,Tidak Diolah
+22669,Puor,Rumah Tangga,Diolah
+22670,Tubungwalang,Rumah Tangga,Tidak ada
+22673,Tubungwalang,Rumah Tangga,Tidak Diolah
+22674,Tubungwalang,Rumah Tangga,Tidak Diolah
+22676,Tubungwalang,Rumah Tangga,Diolah
+22677,Tubungwalang,Rumah Tangga,Tidak Diolah
+22678,Tubungwalang,Rumah Tangga,Tidak ada
+22679,Tubungwalang,Pertanian dan Perkebunan,Tidak Diolah
+22680,Kalikur,Rumah Tangga,Tidak Diolah
+22681,Pada,Rumah Tangga,Tidak Diolah
+22682,Kalikur,Tidak ada,Tidak ada
+22683,Tubungwalang,Rumah Tangga,Tidak ada
+22687,Kalikur,Pertanian dan Perkebunan,Tidak Diolah
+22688,Kalikur,Pertanian dan Perkebunan,Tidak Diolah
+22690,Pada,Rumah Tangga,Tidak Diolah
+22692,Nubamado,Tidak ada,Tidak ada
+22693,Pada,Pertanian dan Perkebunan,Tidak Diolah
+22694,Muruona,Rumah Tangga,Tidak Diolah
+22695,Muruona,Rumah Tangga,Tidak Diolah
+22696,Paubokol,Rumah Tangga,Tidak Diolah
+22697,Muruona,Rumah Tangga,Tidak Diolah
+22698,Paubokol,Rumah Tangga,Tidak Diolah
+22700,Puor,Rumah Tangga,Diolah
+22701,Pada,Rumah Tangga,Tidak Diolah
+22702,Pada,Rumah Tangga,Tidak Diolah
+22703,Muruona,Rumah Tangga,Tidak Diolah
+22704,Puor,Rumah Tangga,Diolah
+22705,Kalikur,Pertanian dan Perkebunan,Tidak Diolah
+22706,Kalikur,Pertanian dan Perkebunan,Tidak Diolah
+22707,Muruona,Rumah Tangga,Tidak Diolah
+22708,Pada,Rumah Tangga,Tidak Diolah
+22709,Paubokol,Rumah Tangga,Tidak Diolah
+22710,Pada,Rumah Tangga,Tidak Diolah
+22711,Hoelea I,Rumah Tangga,Diolah
+22713,Kalikur,Pertanian dan Perkebunan,Tidak ada
+22714,Lamatuka,Tidak ada,Tidak ada
+22715,Paubokol,Rumah Tangga,Tidak Diolah
+22716,Muruona,Rumah Tangga,Tidak Diolah
+22717,Hoelea I,Rumah Tangga,Diolah
+22718,Kalikur,Pertanian dan Perkebunan,Tidak Diolah
+22719,Paubokol,Rumah Tangga,Tidak Diolah
+22720,Hoelea I,Rumah Tangga,Diolah
+22721,Paubokol,Rumah Tangga,Tidak Diolah
+22723,Bour,Rumah Tangga Pertanian dan Perkebunan Peternakan Perikanan,Tidak Diolah
+22724,Bour,Rumah Tangga,Diolah
+22725,Bour,Rumah Tangga,Diolah
+22726,Bour,Rumah Tangga,Diolah
+22727,Hoelea I,Rumah Tangga,Diolah
+22728,Bour,Rumah Tangga,Diolah
+22730,Hoelea I,Rumah Tangga,Diolah
+22731,Tubungwalang,Rumah Tangga,Tidak ada
+22732,Puor,Rumah Tangga Pertanian dan Perkebunan,Tidak Diolah
+22734,Muruona,Rumah Tangga,Tidak Diolah
+22735,Puor,,
+22736,Muruona,Rumah Tangga,Tidak Diolah
+22737,Puor,Rumah Tangga,Diolah
+22738,Puor,Pertanian dan Perkebunan Rumah Tangga,Diolah
+22739,Paubokol,Rumah Tangga,Tidak Diolah
+22740,Kalikur,,
+22741,Kalikur,Pertanian dan Perkebunan,Tidak Diolah
+22742,Kalikur,,
+22743,Kalikur,Pertanian dan Perkebunan,Tidak Diolah
+22744,Kalikur,,
+22745,Paubokol,Rumah Tangga,Tidak Diolah
+22746,Riangbao,Rumah Tangga,Tidak Diolah
+22747,Kalikur,Pertanian dan Perkebunan,Tidak Diolah
+22748,Kalikur,Peternakan dan Perikanan,Tidak Diolah
+22749,Bour,Pertanian dan Perkebunan,Diolah
+22751,Kalikur,,
+22752,Kalikur,Pertanian dan Perkebunan,Tidak Diolah
+22753,Riangbao,Rumah Tangga,Tidak Diolah
+22754,Lolong,Rumah Tangga,Tidak Diolah
+22755,Tubuk Rajan,Peternakan dan Perikanan,Diolah
+22756,Lolong,Rumah Tangga,Tidak Diolah
+22757,Lolong,Rumah Tangga,Tidak Diolah
+22758,Pada,Pertanian dan Perkebunan,Tidak Diolah
+22759,Lolong,Rumah Tangga,Tidak Diolah
+22760,Pada,Rumah Tangga,Tidak Diolah
+22761,Lolong,Rumah Tangga,Diolah
+22762,Puor,Rumah Tangga Pertanian dan Perkebunan,Diolah Tidak
+22763,Pada,Rumah Tangga,Tidak Diolah
+22764,Lamatuka,Rumah Tangga,Tidak Diolah
+22765,Riangbao,Rumah Tangga,Tidak Diolah
+22766,Puor,Rumah Tangga,Diolah
+22768,Tubungwalang,,
+22770,Lamatuka,Rumah Tangga,Tidak Diolah
+22773,Lolong,Rumah Tangga,Diolah
+22774,Tubungwalang,Rumah Tangga,Diolah
+22775,Tubungwalang,,
+22776,Tubungwalang,Rumah Tangga,Diolah
+22777,Lolong,Rumah Tangga,Tidak Diolah
+22778,Lolong,Rumah Tangga,Tidak Diolah
+22781,Lolong,Rumah Tangga,Tidak Diolah
+22782,Lolong,Rumah Tangga,Tidak Diolah
+22783,Tubuk Rajan,Rumah Tangga,Tidak Diolah
+22784,Lolong,Rumah Tangga,Diolah
+22785,Tubungwalang,,
+22787,Lamatuka,Rumah Tangga,Tidak Diolah
+22788,Lolong,Rumah Tangga,Diolah
+22789,Lolong,Rumah Tangga,Tidak Diolah
+22790,Lolong,Rumah Tangga,Tidak Diolah
+22791,Lolong,Rumah Tangga,Tidak Diolah
+22792,Lamatuka,Rumah Tangga,Tidak Diolah
+22793,Bour,Rumah Tangga,Diolah
+22794,Bour,Rumah Tangga,Diolah
+22795,Lolong,Rumah Tangga,Tidak Diolah
+22796,Lolong,Rumah Tangga,Tidak Diolah
+22797,Lolong,,
+22798,Lolong,Rumah Tangga,Diolah
+22799,Tubuk Rajan,Rumah Tangga,Tidak Diolah
+22800,Kalikur,Rumah Tangga,Tidak Diolah
+22801,Kalikur,,
+22802,Lolong,Rumah Tangga,Tidak Diolah
+22803,Lolong,Rumah Tangga,Diolah
+22804,Labalimut,Rumah Tangga,Tidak Diolah
+22805,Pada,Tidak ada,Tidak ada
+22806,Lolong,Rumah Tangga,Tidak Diolah
+22807,Kalikur,,
+22808,Lolong,Rumah Tangga,Tidak Diolah
+22809,Lolong,Rumah Tangga,Tidak Diolah
+22810,Puor,Rumah Tangga Pertanian dan Perkebunan,Diolah Tidak
+22812,Kalikur,Rumah Tangga,Tidak Diolah
+22813,Bour,Rumah Tangga,Diolah
+22814,Bour,Rumah Tangga,Diolah
+22815,Nubamado,Rumah Tangga,Tidak Diolah
+22816,Lolong,Rumah Tangga,Diolah
+22817,Kalikur,,
+22818,Lolong,Rumah Tangga,Tidak Diolah
+22819,Lolong,Rumah Tangga,Tidak Diolah
+22821,Merdeka,Peternakan dan Perikanan,Tidak Diolah
+22822,Kalikur,Rumah Tangga,Tidak Diolah
+22823,Pada,,
+22824,Lolong,Rumah Tangga,Tidak Diolah
+22825,Bour,Pertanian dan Perkebunan,Diolah
+22826,Pada,Rumah Tangga,Tidak Diolah
+22827,Kalikur,Rumah Tangga,Tidak Diolah
+22828,Bour,,
+22829,Lolong,Rumah Tangga,Diolah
+22830,Kalikur,Pertanian dan Perkebunan,Tidak Diolah
+22831,Dulitukan,Rumah Tangga Peternakan dan Perikanan,Diolah Tidak
+22832,Dulitukan,Rumah Tangga Peternakan dan Perikanan,Diolah Tidak
+22833,Dulitukan,Rumah Tangga Peternakan dan Perikanan,Diolah Tidak
+22834,Bour,Pertanian dan Perkebunan,Diolah
+22835,Dulitukan,Rumah Tangga,Diolah
+22836,Tubuk Rajan,Rumah Tangga,Tidak Diolah
+22837,Lamatuka,Rumah Tangga,Tidak Diolah
+22838,Tubuk Rajan,,
+22839,Lamatuka,,
+22840,Dulitukan,Rumah Tangga,Diolah
+22841,Lamatuka,Rumah Tangga,Tidak Diolah
+22842,Hoelea I,Rumah Tangga,Diolah
+22844,Dulitukan,Rumah Tangga,Diolah
+22845,Tubuk Rajan,Rumah Tangga,Tidak Diolah
+22846,Lamatuka,Rumah Tangga,Tidak Diolah
+22847,Hoelea I,Rumah Tangga,Diolah
+22848,Hoelea I,Rumah Tangga,Diolah
+22850,Hoelea I,Pertanian dan Perkebunan,Tidak Diolah
+22851,Hoelea I,Rumah Tangga Pertanian dan Perkebunan,Diolah Tidak
+22852,Hoelea I,Rumah Tangga,Diolah
+22853,Hoelea I,Rumah Tangga Pertanian dan Perkebunan,Diolah Tidak
+22854,Hoelea I,Rumah Tangga Pertanian dan Perkebunan,Diolah Tidak
+22855,Hoelea I,Rumah Tangga Pertanian dan Perkebunan,Diolah Tidak
+22856,Hoelea I,Rumah Tangga Pertanian dan Perkebunan,Diolah Tidak
+22857,Hoelea I,Rumah Tangga Pertanian dan Perkebunan,Diolah Tidak
+22858,Hoelea I,Rumah Tangga Pertanian dan Perkebunan,Diolah Tidak
+22859,Hoelea I,Rumah Tangga Pertanian dan Perkebunan,Diolah Tidak
+22860,Hoelea I,Rumah Tangga Pertanian dan Perkebunan,Diolah Tidak
+22861,Hoelea I,Rumah Tangga Pertanian dan Perkebunan,Diolah Tidak
+22862,Hoelea I,Rumah Tangga Pertanian dan Perkebunan,Tidak Diolah
+22863,Hoelea I,Rumah Tangga,Diolah
+22864,Pada,Rumah Tangga,Tidak Diolah
+22865,Puor,Pertanian dan Perkebunan Rumah Tangga Peternakan Perikanan,Tidak Diolah
+22866,Puor,Pertanian dan Perkebunan Rumah Tangga,Tidak Diolah
+22867,Puor,Pertanian dan Perkebunan Rumah Tangga,Tidak Diolah
+22868,Puor,Rumah Tangga,Diolah
+22869,Puor,Rumah Tangga,Diolah
+22871,Muruona,Rumah Tangga,Tidak Diolah
+22872,Muruona,Rumah Tangga,Tidak Diolah
+22876,Muruona,Rumah Tangga,Tidak Diolah
+22887,Benihading,Pertanian dan Perkebunan,Diolah
+22892,Benihading,Rumah Tangga Pertanian dan Perkebunan Peternakan Perikanan,Tidak Diolah
+22893,Benihading,Pertanian dan Perkebunan,Diolah
+22909,Muruona,Rumah Tangga,Diolah
+22910,Bour,Rumah Tangga,Tidak Diolah
+22911,Mahal,Rumah Tangga,Tidak Diolah
+22912,Benihading,Pertanian dan Perkebunan,Diolah
+22913,Bour,Rumah Tangga,Diolah
+22919,Bour,Pertanian dan Perkebunan,Diolah
+22920,Mahal,Rumah Tangga,Tidak Diolah
+22926,Bour,Rumah Tangga,Tidak Diolah
+22943,Benihading,Pertanian dan Perkebunan,Diolah
+22944,Bour,Rumah Tangga,Diolah
+22953,Benihading,Pertanian dan Perkebunan,Diolah
+22962,Puor,Rumah Tangga,Diolah
+22963,Benihading,Pertanian dan Perkebunan,Diolah
+22964,Benihading,Pertanian dan Perkebunan,Diolah
+22970,Bour,Rumah Tangga,Diolah
+22983,Benihading,Pertanian dan Perkebunan,Diolah
+22997,Ile Kimok,Rumah Tangga,Tidak Diolah
+23017,Mahal,Rumah Tangga,Tidak ada
+23048,Mahal,Rumah Tangga,Tidak Diolah
+23058,Ile Kimok,Rumah Tangga,Tidak Diolah
+23087,Riangbao,Pertanian dan Perkebunan,Diolah
+23088,Benihading,Pertanian dan Perkebunan,Diolah
+23089,Benihading,Pertanian dan Perkebunan,Diolah
+23090,Benihading,Pertanian dan Perkebunan,Diolah
+23091,Benihading,Rumah Tangga Pertanian dan Perkebunan Peternakan Perikanan,Tidak Diolah
+23100,Benihading,Pertanian dan Perkebunan,Diolah
+23111,Benihading,Pertanian dan Perkebunan,Diolah
+23112,Benihading,Rumah Tangga Pertanian dan Perkebunan Peternakan Perikanan,Tidak Diolah
+23113,Benihading,Pertanian dan Perkebunan,Diolah
+23114,Benihading,Pertanian dan Perkebunan Peternakan Perikanan,Diolah
+23118,Ile Kimok,Pertanian dan Perkebunan,Tidak Diolah
+23122,Ile Kimok,Rumah Tangga,Tidak Diolah
+23141,Benihading,Rumah Tangga Pertanian dan Perkebunan Peternakan Perikanan,Tidak Diolah
+23143,Benihading,Pertanian dan Perkebunan,Diolah
+23145,Ile Kimok,Pertanian dan Perkebunan,Diolah
+23146,Ile Kimok,Rumah Tangga,Tidak Diolah
+23152,Puor,Rumah Tangga,Diolah
+23156,Wuakerong,Rumah Tangga,Tidak Diolah
+23160,Ile Kimok,Rumah Tangga,Tidak Diolah
+23161,Ile Kimok,Rumah Tangga,Tidak Diolah
+23164,Benihading,Rumah Tangga Pertanian dan Perkebunan Peternakan Perikanan,Tidak Diolah
+23167,Ile Kimok,Rumah Tangga,Tidak Diolah
+23172,Ile Kimok,Rumah Tangga,Tidak Diolah
+23174,Benihading,Pertanian dan Perkebunan,Diolah
+23175,Benihading,Pertanian dan Perkebunan,Diolah
+23177,Ile Kimok,Rumah Tangga,Tidak Diolah
+23178,Wuakerong,Rumah Tangga,Tidak Diolah
+23181,Muruona,Rumah Tangga,Tidak Diolah
+23182,Ile Kimok,Rumah Tangga,Tidak Diolah
+23183,Wuakerong,Rumah Tangga,Tidak Diolah
+23184,Muruona,Rumah Tangga,Tidak Diolah
+23186,Tubuk Rajan,Rumah Tangga,Tidak ada
+23187,Ile Kimok,Rumah Tangga,Tidak Diolah
+23192,Ile Kimok,Rumah Tangga,Tidak Diolah
+23193,Benihading,Pertanian dan Perkebunan,Diolah
+23198,Muruona,Rumah Tangga,Tidak Diolah
+23203,Tubungwalang,Rumah Tangga,Tidak Diolah
+23205,Wuakerong,Rumah Tangga,Tidak Diolah
+23207,Watodiri,Rumah Tangga,Diolah
+23211,Bour,Pertanian dan Perkebunan,Diolah
+23212,Muruona,Rumah Tangga,Tidak Diolah
+23213,Watodiri,Rumah Tangga,Diolah
+23214,Watodiri,Rumah Tangga,Tidak Diolah
+23216,Watodiri,Rumah Tangga,Diolah
+23218,Todanara,Pertanian dan Perkebunan,Tidak Diolah
+23219,Tubungwalang,Rumah Tangga,Tidak Diolah
+23221,Todanara,Pertanian dan Perkebunan,Tidak Diolah
+23222,Wuakerong,Rumah Tangga,Tidak Diolah
+23225,Wuakerong,Rumah Tangga,Tidak Diolah
+23226,Tubungwalang,Rumah Tangga,Tidak ada
+23228,Laranwutun,Rumah Tangga Pertanian dan Perkebunan Peternakan Perikanan,Tidak Diolah
+23230,Puor,,
+23231,Wuakerong,Rumah Tangga,Tidak Diolah
+23232,Laranwutun,Rumah Tangga Pertanian dan Perkebunan,Diolah Tidak
+23233,Tubungwalang,Rumah Tangga,Diolah
+23234,Wuakerong,,
+23235,Watodiri,Rumah Tangga,Diolah
+23236,Watodiri,Rumah Tangga,Diolah
+23237,Watodiri,Rumah Tangga,Diolah
+23238,Watodiri,Rumah Tangga,Tidak Diolah
+23239,Watodiri,Rumah Tangga,Diolah
+23240,Watodiri,Rumah Tangga,Tidak Diolah
+23243,Tubungwalang,Rumah Tangga,Tidak Diolah
+23244,Watodiri,Rumah Tangga,Diolah
+23245,Watodiri,Rumah Tangga,Tidak Diolah
+23246,Watodiri,Rumah Tangga,Tidak Diolah
+23247,Puor,Rumah Tangga Pertanian dan Perkebunan,Diolah Tidak
+23248,Watodiri,Rumah Tangga,Diolah
+23249,Laranwutun,Rumah Tangga Pertanian dan Perkebunan,Tidak Diolah
+23250,Watodiri,Rumah Tangga,Tidak Diolah
+23251,Watodiri,Rumah Tangga,Tidak Diolah
+23252,Watodiri,Rumah Tangga,Diolah
+23253,Watodiri,Rumah Tangga,Diolah
+23254,Watodiri,Rumah Tangga,Tidak Diolah
+23255,Wuakerong,Tidak ada,Tidak ada
+23256,Watodiri,Rumah Tangga,Diolah
+23257,Watodiri,Rumah Tangga,Tidak Diolah
+23258,Watodiri,Rumah Tangga,Diolah
+23259,Watodiri,Rumah Tangga,Tidak Diolah
+23261,Watodiri,Rumah Tangga,Diolah
+23262,Watodiri,Rumah Tangga,Diolah
+23264,Wuakerong,Rumah Tangga,Tidak Diolah
+23265,Watodiri,Rumah Tangga,Tidak Diolah
+23266,Watodiri,Rumah Tangga,Tidak Diolah
+23267,Watodiri,Rumah Tangga,Diolah
+23268,Watodiri,Rumah Tangga,Tidak Diolah
+23270,Watodiri,Rumah Tangga,Tidak Diolah
+23274,Pada,Rumah Tangga,Tidak Diolah
+23276,Puor,Rumah Tangga,Diolah
+23277,Tubuk Rajan,Rumah Tangga,Tidak Diolah
+23279,Puor,Rumah Tangga,Diolah
+23283,Puor,Rumah Tangga,Tidak Diolah
+23284,Puor,,
+23285,Laranwutun,Rumah Tangga Pertanian dan Perkebunan Peternakan Perikanan,Tidak Diolah
+23286,Wuakerong,Rumah Tangga,Tidak Diolah
+23289,Tubuk Rajan,Pertanian dan Perkebunan,Diolah
+23290,Benihading,Pertanian dan Perkebunan,Diolah
+23291,Laranwutun,,
+23292,Benihading,Pertanian dan Perkebunan,Diolah
+23293,Benihading,Pertanian dan Perkebunan,Diolah
+23294,Benihading,Pertanian dan Perkebunan,Diolah
+23297,Benihading,Pertanian dan Perkebunan,Diolah
+23298,Tagawiti,,
+23299,Mahal,Rumah Tangga,Tidak Diolah
+23300,Tagawiti,,
+23301,Tagawiti,,
+23302,Mahal,Rumah Tangga,Tidak Diolah
+23303,Mahal,Rumah Tangga,Tidak Diolah
+23305,Mahal,Rumah Tangga,Tidak ada
+23307,Mahal,Rumah Tangga,Tidak ada
+23308,Mahal,Rumah Tangga,Tidak ada
+23309,Mahal,Rumah Tangga,Tidak ada
+23310,Mahal,Rumah Tangga,Tidak ada
+23311,Laranwutun,Rumah Tangga Pertanian dan Perkebunan,Diolah
+23312,Laranwutun,Rumah Tangga Pertanian dan Perkebunan Peternakan Perikanan,Tidak Diolah
+23314,Dulitukan,Rumah Tangga,Diolah
+23315,Dulitukan,Rumah Tangga Peternakan dan Perikanan,Diolah Tidak
+23316,Dulitukan,Rumah Tangga,Diolah
+23318,Dulitukan,Rumah Tangga,Diolah
+23328,Laranwutun,Rumah Tangga,Tidak Diolah
+23329,Laranwutun,Rumah Tangga Peternakan dan Perikanan Pertanian Perkebunan,Tidak Diolah
+23353,Wuakerong,Rumah Tangga,Tidak ada
+23369,Laranwutun,Rumah Tangga Pertanian dan Perkebunan,Tidak Diolah
+23370,Tagawiti,Rumah Tangga,Tidak Diolah
+23372,Wuakerong,Tidak ada,Tidak ada
+23373,Tagawiti,,
+23374,Tagawiti,,
+23375,Puor,Rumah Tangga,Diolah
+23376,Puor,Rumah Tangga,Diolah
+23382,Laranwutun,Rumah Tangga Pertanian dan Perkebunan Peternakan Perikanan,Tidak Diolah
+23383,Laranwutun,Pertanian dan Perkebunan Rumah Tangga,Tidak Diolah
+23384,Laranwutun,Rumah Tangga Pertanian dan Perkebunan,Tidak Diolah
+23385,Laranwutun,Pertanian dan Perkebunan,Diolah
+23390,Todanara,Pertanian dan Perkebunan,Tidak Diolah
+23392,Todanara,Rumah Tangga,Diolah
+23393,Dikesare,Rumah Tangga,Tidak Diolah
+23394,Dikesare,Rumah Tangga,Tidak ada
+23396,Tagawiti,,
+23397,Tagawiti,,
+23398,Waienga,Pertanian dan Perkebunan,Diolah
+23399,Labalimut,Tidak ada,Tidak ada
+23400,Tagawiti,,
+23401,Laranwutun,Rumah Tangga,Tidak Diolah
+23404,Hoelea I,Rumah Tangga Pertanian dan Perkebunan Peternakan Perikanan,Diolah Tidak
+23405,Hoelea I,Rumah Tangga Pertanian dan Perkebunan,Diolah
+23406,Hoelea I,Rumah Tangga Pertanian dan Perkebunan,Diolah Tidak
+23407,Tagawiti,,
+23408,Waienga,Pertanian dan Perkebunan,Diolah
+23409,Tagawiti,,
+23410,Waienga,Pertanian dan Perkebunan,Diolah
+23411,Laranwutun,Rumah Tangga,Tidak Diolah
+23412,Waienga,Rumah Tangga,Tidak Diolah
+23413,Laranwutun,Pertanian dan Perkebunan Rumah Tangga,Diolah Tidak
+23414,Waienga,Pertanian dan Perkebunan,Diolah
+23415,Tagawiti,,
+23416,Dikesare,Rumah Tangga,Diolah
+23418,Laranwutun,Pertanian dan Perkebunan,Diolah
+23419,Waienga,Rumah Tangga,Tidak Diolah
+23420,Waienga,Pertanian dan Perkebunan,Diolah
+23421,Waienga,Pertanian dan Perkebunan,Diolah
+23422,Waienga,Pertanian dan Perkebunan,Diolah
+23423,Laranwutun,,
+23427,Tagawiti,,
+23428,Waienga,Rumah Tangga,Tidak Diolah
+23432,Laranwutun,,
+23433,Laranwutun,Rumah Tangga Pertanian dan Perkebunan Peternakan Perikanan,Diolah
+23434,Tagawiti,,
+23436,Tubungwalang,Rumah Tangga,Diolah
+23437,Tagawiti,Rumah Tangga,Tidak Diolah
+23439,Waienga,Pertanian dan Perkebunan,Diolah
+23441,Laranwutun,Rumah Tangga,Tidak Diolah
+23442,Laranwutun,Rumah Tangga,Tidak Diolah
+23443,Waienga,Pertanian dan Perkebunan,Diolah
+23445,Lamatuka,Rumah Tangga,Tidak ada
+23447,Lamatuka,Rumah Tangga,Tidak Diolah
+23448,Waienga,Rumah Tangga,Tidak Diolah
+23449,Lamatuka,Rumah Tangga,Tidak Diolah
+23450,Dulitukan,,
+23451,Lamatuka,Rumah Tangga,Tidak Diolah
+23452,Lamatuka,Rumah Tangga,Tidak Diolah
+23453,Lamatuka,Pertanian dan Perkebunan,Tidak Diolah
+23454,Hoelea I,Rumah Tangga Pertanian dan Perkebunan,Diolah Tidak
+23455,Hoelea I,Rumah Tangga Pertanian dan Perkebunan Peternakan Perikanan,Diolah Tidak
+23456,Hoelea I,Rumah Tangga Pertanian dan Perkebunan,Diolah Tidak
+23457,Hoelea I,Rumah Tangga Pertanian dan Perkebunan,Diolah Tidak
+23458,Hoelea I,Rumah Tangga Pertanian dan Perkebunan,Diolah Tidak
+23459,Dulitukan,Rumah Tangga,Diolah
+23460,Lamatuka,Rumah Tangga,Tidak Diolah
+23462,Lamatuka,Tidak ada,Tidak ada
+23463,Wuakerong,Rumah Tangga,Tidak Diolah
+23467,Wuakerong,Rumah Tangga,Tidak Diolah
+23468,Puor,Rumah Tangga,Diolah
+23469,Laranwutun,Rumah Tangga Pertanian dan Perkebunan,Diolah Tidak
+23470,Dulitukan,Rumah Tangga Peternakan dan Perikanan,Diolah Tidak
+23473,Wuakerong,Tidak ada,Tidak ada
+23474,Waienga,Rumah Tangga,Tidak Diolah
+23475,Merdeka,Peternakan dan Perikanan,Tidak Diolah
+23476,Laranwutun,Peternakan dan Perikanan,Diolah
+23477,Wuakerong,Rumah Tangga,Tidak Diolah
+23479,Merdeka,Peternakan dan Perikanan,Tidak Diolah
+23480,Wuakerong,Tidak ada,Tidak ada
+23483,Dulitukan,Rumah Tangga,Diolah
+23484,Katakeja,Pertanian dan Perkebunan,Tidak Diolah
+23485,Dulitukan,Rumah Tangga Peternakan dan Perikanan,Diolah Tidak
+23487,Tagawiti,,
+23488,Tagawiti,,
+23489,Tagawiti,,
+23490,Merdeka,Peternakan dan Perikanan,Tidak Diolah
+23491,Laranwutun,Rumah Tangga Peternakan dan Perikanan,Tidak Diolah
+23492,Laranwutun,Rumah Tangga Peternakan dan Perikanan,Tidak Diolah
+23493,Tagawiti,Rumah Tangga,Tidak Diolah
+23494,Laranwutun,Rumah Tangga,Tidak Diolah
+23495,Tagawiti,Rumah Tangga,Tidak Diolah
+23496,Tagawiti,,
+23498,Tagawiti,Rumah Tangga,Tidak Diolah
+23499,Tagawiti,,
+23500,Laranwutun,Rumah Tangga,Tidak ada Diolah
+23507,Merdeka,Peternakan dan Perikanan,Tidak Diolah
+23559,Puor,,
+23574,Muruona,Rumah Tangga,Tidak Diolah
+23578,Waienga,Pertanian dan Perkebunan,Diolah
+23579,Waienga,Peternakan dan Perikanan,Tidak Diolah
+23596,Waienga,Pertanian dan Perkebunan,Diolah
+23608,Muruona,Rumah Tangga,Tidak Diolah
+23615,Tubuk Rajan,,
+23621,Waienga,Pertanian dan Perkebunan,Diolah
+23630,Muruona,Rumah Tangga,Tidak Diolah
+23634,Dulitukan,Rumah Tangga,Diolah
+23636,Muruona,Rumah Tangga,Tidak Diolah
+23644,Paubokol,,
+23661,Waienga,Pertanian dan Perkebunan,Tidak Diolah
+23663,Dulitukan,Rumah Tangga,Diolah
+23668,Laranwutun,Rumah Tangga,Tidak ada
+23676,Katakeja,,
+23684,Muruona,Rumah Tangga,Tidak Diolah
+23697,Waienga,Rumah Tangga,Tidak Diolah
+23704,Lamatuka,Rumah Tangga,Tidak Diolah
+23706,Tubuk Rajan,,
+23707,Mahal,Rumah Tangga,Tidak ada
+23710,Mahal,Rumah Tangga,Tidak Diolah
+23714,Mahal,Rumah Tangga,Tidak Diolah
+23716,Mahal,Rumah Tangga,Tidak Diolah
+23727,Lamatuka,Rumah Tangga,Tidak Diolah
+23731,Mahal,Rumah Tangga,Tidak Diolah
+23733,Mahal,Rumah Tangga,Tidak Diolah
+23734,Mahal,Rumah Tangga,Tidak Diolah
+23737,Lamatuka,Pertanian dan Perkebunan,Diolah
+23739,Lamatuka,Rumah Tangga,Tidak Diolah
+23741,Tagawiti,,
+23750,Lamatuka,Rumah Tangga,Tidak Diolah
+23751,Lamatuka,Rumah Tangga,Tidak Diolah
+23752,Lamatuka,Peternakan dan Perikanan,Diolah
+23753,Mahal,Rumah Tangga,Tidak Diolah
+23754,Tagawiti,Rumah Tangga,Tidak Diolah
+23755,Lamatuka,Rumah Tangga,Tidak Diolah
+23758,Muruona,Rumah Tangga,Tidak Diolah
+23761,Tubuk Rajan,,
+23783,Lamatuka,Rumah Tangga,Tidak Diolah
+23785,Mahal,,
+23787,Muruona,Rumah Tangga,Tidak Diolah
+23792,Muruona,Rumah Tangga,Tidak Diolah
+23802,Lamatuka,Rumah Tangga,Tidak Diolah
+23808,Mahal,,
+23824,Bour,Rumah Tangga Pertanian dan Perkebunan,Diolah
+23836,Lamatuka,Rumah Tangga,Diolah
+23845,Tagawiti,Rumah Tangga,Tidak Diolah
+23855,Tagawiti,Rumah Tangga,Tidak Diolah
+23872,Lamatuka,Rumah Tangga,Tidak Diolah
+23884,Merdeka,Peternakan dan Perikanan,Tidak Diolah
+23885,Paubokol,Rumah Tangga,Tidak Diolah
+23886,Lamatuka,Rumah Tangga,Tidak Diolah
+23887,Mahal,Rumah Tangga,Tidak Diolah
+23894,Lamatuka,Rumah Tangga,Tidak Diolah
+23895,Merdeka,Peternakan dan Perikanan,Tidak Diolah
+23896,Todanara,Pertanian dan Perkebunan,Tidak Diolah
+23900,Muruona,Rumah Tangga,Tidak Diolah
+23901,Tagawiti,Rumah Tangga,Tidak Diolah
+23903,Todanara,Rumah Tangga,Diolah
+23906,Waienga,Pertanian dan Perkebunan,Diolah
+23907,Tagawiti,Rumah Tangga,Tidak Diolah
+23908,Tagawiti,,
+23911,Todanara,Pertanian dan Perkebunan,Tidak Diolah
+23915,Muruona,Rumah Tangga,Tidak Diolah
+23916,Muruona,Rumah Tangga,Tidak Diolah
+23951,Waienga,Pertanian dan Perkebunan,Diolah
+23992,Dikesare,Rumah Tangga,Tidak Diolah
+24007,Dikesare,Rumah Tangga,Tidak Diolah
+24015,Dikesare,Rumah Tangga,Tidak Diolah
+24024,Dikesare,Rumah Tangga,Tidak Diolah
+24058,Merdeka,Peternakan dan Perikanan,Tidak Diolah
+24070,Waienga,Pertanian dan Perkebunan,Diolah
+24074,Waienga,Pertanian dan Perkebunan,Diolah
+24075,Waienga,Pertanian dan Perkebunan,Diolah
+24076,Wuakerong,Tidak ada,Tidak ada
+24077,Wuakerong,Peternakan dan Perikanan,Diolah
+24078,Wuakerong,Tidak ada,Tidak ada
+24079,Wuakerong,Tidak ada,Tidak ada
+24080,Waienga,Rumah Tangga,Tidak Diolah
+24083,Tubuk Rajan,,
+24092,Waienga,Pertanian dan Perkebunan,Diolah
+24113,Dulitukan,Rumah Tangga,Diolah
+24116,Dulitukan,Rumah Tangga,Diolah
+24119,Dulitukan,Rumah Tangga,Diolah
+24120,Dulitukan,,
+24123,Ile Kimok,Rumah Tangga,Tidak Diolah
+24124,Merdeka,Peternakan dan Perikanan,Tidak Diolah
+24139,Ile Kimok,Rumah Tangga,Tidak Diolah
+24140,Ile Kimok,Rumah Tangga,Tidak Diolah
+24141,Ile Kimok,Rumah Tangga,Tidak Diolah
+24143,Ile Kimok,Pertanian dan Perkebunan,Tidak Diolah
+24144,Ile Kimok,Rumah Tangga,Tidak Diolah
+24149,Ile Kimok,Rumah Tangga,Tidak Diolah
+24155,Ile Kimok,Rumah Tangga,Tidak Diolah
+24156,Ile Kimok,Rumah Tangga,Tidak Diolah
+24157,Ile Kimok,Rumah Tangga,Tidak Diolah
+24162,Waienga,Pertanian dan Perkebunan,Tidak Diolah
+24163,Ile Kimok,Rumah Tangga,Tidak Diolah
+24169,Ile Kimok,Rumah Tangga,Tidak Diolah
+24229,Tubuk Rajan,,
+24231,Tubuk Rajan,,
+24232,Tubuk Rajan,,
+24233,Tubuk Rajan,,
+24234,Tubuk Rajan,,
+24235,Tubuk Rajan,,
+24236,Tubuk Rajan,,
+24237,Tubuk Rajan,,
+24238,Tubuk Rajan,,
+24239,Tubuk Rajan,,
+24240,Tubuk Rajan,Pertanian dan Perkebunan,Tidak Diolah
+24241,Tubuk Rajan,Rumah Tangga,Tidak ada
+24261,Todanara,Rumah Tangga,Diolah
+24269,Todanara,Pertanian dan Perkebunan,Diolah
+24272,Merdeka,Peternakan dan Perikanan,Tidak Diolah
+24280,Merdeka,Peternakan dan Perikanan,Tidak Diolah
+24305,Wuakerong,Rumah Tangga,Tidak Diolah
+24308,Mahal,Rumah Tangga,Tidak Diolah
+24310,Todanara,Rumah Tangga,Diolah
+24318,Wuakerong,,
+24319,Merdeka,Peternakan dan Perikanan,Tidak Diolah
+24320,Merdeka,Peternakan dan Perikanan,Tidak Diolah
+24321,Wuakerong,Rumah Tangga,Diolah
+24322,Wuakerong,Tidak ada,Tidak ada
+24323,Wuakerong,Tidak ada,Tidak ada
+24324,Wuakerong,Rumah Tangga,Tidak Diolah
+24325,Wuakerong,Rumah Tangga,Tidak Diolah
+24326,Wuakerong,Pertanian dan Perkebunan,Tidak Diolah
+24329,Ile Kimok,Rumah Tangga,Tidak Diolah
+24330,Katakeja,Pertanian dan Perkebunan,Tidak ada
+24331,Katakeja,Pertanian dan Perkebunan,Tidak Diolah
+24332,Bour,Rumah Tangga,Diolah
+24339,Katakeja,Pertanian dan Perkebunan,Tidak Diolah
+24340,Labalimut,Rumah Tangga,Diolah
+24341,Labalimut,,
+24343,Puor,Rumah Tangga Pertanian dan Perkebunan Peternakan Perikanan,Tidak Diolah
+24345,Merdeka,Peternakan dan Perikanan,Tidak Diolah
+24346,Merdeka,Rumah Tangga,Tidak Diolah
+24347,Merdeka,Rumah Tangga,Tidak Diolah
+24348,Dikesare,Rumah Tangga,Tidak Diolah
+24350,Dikesare,Rumah Tangga,Tidak Diolah
+24353,Dikesare,Rumah Tangga,Tidak Diolah
+24355,Dikesare,Rumah Tangga,Diolah
+24356,Dikesare,Rumah Tangga,Diolah
+24357,Dikesare,Rumah Tangga,Diolah
+24359,Dikesare,Rumah Tangga,Tidak Diolah
+24360,Dikesare,Rumah Tangga,Diolah
+24367,Todanara,Pertanian dan Perkebunan,Tidak Diolah
+24369,Merdeka,Peternakan dan Perikanan,Tidak Diolah
+24370,Labalimut,Pertanian dan Perkebunan,Tidak ada
+24371,Merdeka,Peternakan dan Perikanan,Tidak Diolah
+24372,Merdeka,Rumah Tangga,Tidak Diolah
+24381,Todanara,Rumah Tangga,Tidak Diolah
+24385,Dikesare,Rumah Tangga,Tidak Diolah
+24386,Dikesare,Rumah Tangga,Tidak Diolah
+24388,Todanara,Rumah Tangga,Tidak ada
+24395,Todanara,Pertanian dan Perkebunan,Tidak ada
+24399,Dikesare,Rumah Tangga,Diolah
+24412,Todanara,Rumah Tangga,Tidak Diolah
+24413,Mahal,Rumah Tangga,Tidak Diolah
+24414,Merdeka,Rumah Tangga,Tidak Diolah
+24415,Merdeka,Peternakan dan Perikanan,Tidak Diolah
+24416,Merdeka,Rumah Tangga,Tidak Diolah
+24417,Merdeka,Rumah Tangga,Tidak Diolah
+24419,Merdeka,Rumah Tangga,Tidak Diolah
+24424,Todanara,Pertanian dan Perkebunan,Tidak Diolah
+24428,Todanara,Rumah Tangga,Tidak Diolah
+24486,Tubuk Rajan,,
+24487,Dikesare,Rumah Tangga,Tidak Diolah
+24488,Tubuk Rajan,,
+24490,Tubuk Rajan,,
+24500,Ile Kimok,Rumah Tangga,Tidak Diolah
+24510,Merdeka,Pertanian dan Perkebunan,Tidak Diolah
+24519,Waienga,Pertanian dan Perkebunan,Diolah
+24577,Waienga,Rumah Tangga,Tidak ada
+24587,Labalimut,,
+24596,Merdeka,Rumah Tangga,Tidak Diolah
+24598,Paubokol,Tidak ada,Tidak ada
+24606,Paubokol,,
+24611,Dikesare,,
+24612,Dikesare,Rumah Tangga,Tidak Diolah
+24613,Dikesare,Rumah Tangga,Tidak Diolah
+24617,Dikesare,Rumah Tangga,Tidak Diolah
+24634,Muruona,Rumah Tangga,Tidak Diolah
+24649,Dikesare,Rumah Tangga,Tidak Diolah
+24659,Muruona,Rumah Tangga,Diolah
+24662,Muruona,Rumah Tangga,Diolah
+24663,Ile Kimok,Rumah Tangga,Tidak Diolah
+24708,Dikesare,Rumah Tangga,Tidak Diolah
+24709,Dikesare,Rumah Tangga,Diolah
+24710,Dikesare,Rumah Tangga,Diolah
+24760,Dulitukan,Rumah Tangga,Tidak Diolah
+24798,Todanara,Pertanian dan Perkebunan,Tidak Diolah
+24799,Todanara,Rumah Tangga,Tidak Diolah
+24801,Todanara,Pertanian dan Perkebunan,Tidak Diolah
+24802,Dikesare,Rumah Tangga,Diolah
+24803,Mahal,Rumah Tangga,Tidak Diolah
+24866,Todanara,Rumah Tangga,Tidak Diolah
+24869,Todanara,Rumah Tangga,Tidak Diolah
+24957,Todanara,Rumah Tangga,Tidak Diolah
