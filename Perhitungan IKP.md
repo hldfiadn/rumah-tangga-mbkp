@@ -52,14 +52,7 @@ I.3.1.2 Kelembagaan pengelola air (X) tidak ada informasi
 
 
 
-I.4.1.2 Konservasi Benih (?)
-
- 	**Q : apa itu pemuliaan plasma nutfah**
-
- 	penyilangan, penyimpanan, menghasilkan benih sendiri
-apakah ada datanya
-
-
+I.4.1.2 Konservasi Benih (X) tidak ada informasi
 
 
 
@@ -195,7 +188,7 @@ Pilar		Jumlah Parameter awal		Jumlah parameter digunakan
 
 
 
-pilar 1		8
+pilar 1		8				4
 
 pilar 2		17
 
