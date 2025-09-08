@@ -2,15 +2,19 @@
 
 
 
-###### 📝
+1️⃣ pengukuran rumah tangga
 
-###### 💼
+2️⃣ pengukuran pemerintah kabupaten
 
-🖥️
+3️⃣ pengukuran pemerintah pusat
 
 
 
-#### Pilar 1 Akses terhadap Sumber Daya Produktif (Reforma Agraria)
+🅰️🅱️🅾️ sama aja tapi yang gak digunakan
+
+
+
+#### Pilar 1 Akses terhadap Sumber Daya Produktif (Reforma Agraria) bobot 35%
 
 
 
@@ -22,7 +26,7 @@
 
 
 
-###### ✅I.2.1.1 Luas Tanah yang Dikuasai📝💼🖥️
+###### ✅I.2.1.1 Luas Tanah yang Dikuasai 1️⃣
 
  	**Justifikasi Akademik**
 
@@ -34,7 +38,7 @@
 
 
 
-###### ✅I.3.1.1 Ketersediaan Air untuk Budidaya
+###### ✅I.3.1.1 Ketersediaan Air untuk Budidaya 1️⃣
 
  	definisi :
 
@@ -42,11 +46,11 @@
 
 
 
-I.3.1.2 Kelembagaan pengelola air (X) tidak ada informasi
+I.3.1.2 Kelembagaan pengelola air (X) tidak ada informasi 🅰️
 
  
 
-###### ✅I.4.1.1 Asal Benih
+###### ✅I.4.1.1 Asal Benih 1️⃣
 
  	definisi :
 
@@ -54,25 +58,25 @@ I.3.1.2 Kelembagaan pengelola air (X) tidak ada informasi
 
 
 
-I.4.1.2 Konservasi Benih (X) tidak ada informasi
+I.4.1.2 Konservasi Benih (X) tidak ada informasi 🅰️
 
 
 
-I.5.1.1 Adanya Lembaga Pemodalan (X) tidak ada informasi
+I.5.1.1 Adanya Lembaga Pemodalan (X) tidak ada informasi 🅰️
 
  
 
-I.5.1.2 Kemudahan Syarat melakukan Peminjaman (X) tidak ada informasi
+I.5.1.2 Kemudahan Syarat melakukan Peminjaman (X) tidak ada informasi 🅰️
 
 
 
 
 
-#### Pilar 2 Pertanian Berkelanjutan
+#### Pilar 2 Pertanian Berkelanjutan bobot 25%
 
 
 
-###### ✅II.1.1.1 Jenis pestisida yang digunakan
+###### ✅II.1.1.1 Jenis pestisida yang digunakan 1️⃣
 
  	definisi :
 
@@ -80,15 +84,15 @@ I.5.1.2 Kemudahan Syarat melakukan Peminjaman (X) tidak ada informasi
 
 
 
-II.1.1.2 Pengadaan pestisida (X) tidak ada informasi
+II.1.1.2 Pengadaan pestisida (X) tidak ada informasi 🅰️
 
 
 
-II.1.1.3 Ambang batas Penggunaan Pestisida oleh Petani (X) tidak ada informasi
+II.1.1.3 Ambang batas Penggunaan Pestisida oleh Petani (X) tidak ada informasi 🅰️
 
 
 
-###### ✅II.1.2.1 Jenis Pupuk yang Digunakan
+###### ✅II.1.2.1 Jenis Pupuk yang Digunakan 1️⃣
 
  	definisi :
 
@@ -98,15 +102,15 @@ II.1.1.3 Ambang batas Penggunaan Pestisida oleh Petani (X) tidak ada informasi
 
 
 
-II.1.2.2 Dosis Pupuk Berimbang (X) tidak ada informasi
+II.1.2.2 Dosis Pupuk Berimbang (X) tidak ada informasi 🅰️
 
 
 
-II.1.2.3 Pengadaan Pupuk (X) tidak ada informasi
+II.1.2.3 Pengadaan Pupuk (X) tidak ada informasi 🅰️
 
 
 
-###### ✅II.1.3.1 Melakukan pemanfaatan limbah pertanian
+###### ✅II.1.3.1 Melakukan pemanfaatan limbah pertanian 1️⃣
 
  	definisi :
 
@@ -114,11 +118,15 @@ II.1.2.3 Pengadaan Pupuk (X) tidak ada informasi
 
 
 
-II.2.1.1 Adanya Pemantauan Agroekosistem (X) tidak ada informasi
+II.2.1.1 Adanya Pemantauan Agroekosistem (X) tidak ada informasi 🅰️
 
 
 
-###### ✅II.2.2.1 Keragaman Jenis Tanaman (ini masih agak **ragu** karena bilangnya **satu musim**)
+KERAGAMAN BIOTA TANAH DAN AIR?? I 2.1.2
+
+
+
+###### ✅II.2.2.1 Keragaman Jenis Tanaman (ini masih agak **ragu** karena bilangnya **satu musim**) 1️⃣
 
  	definisi :
 
@@ -126,21 +134,27 @@ II.2.1.1 Adanya Pemantauan Agroekosistem (X) tidak ada informasi
 
 
 
-II.2.2.2 Pengembangan Musuh Alami Hama (sbnrnya bertolak belakang sm II.1.1.3, tp jd apa bedanya)
+II.2.2.2 Pengembangan Musuh Alami Hama (sbnrnya bertolak belakang sm II.1.1.3, tp jd apa bedanya) 🅰️
 
 
 
-II.2.2.3 Memperhatikan kearifan lokal (X) tidak ada informasi
-
-II.3.1.1 Grafik sebaran umur petani (X) tidak ada informasi
-
-II.3.1.2 Adanya program pemerintah daerah untuk mendorong tumbuhnya petani muda (X) tidak ada informasi
-
-II.3.2.1 Penggunaan APD saat melakukan pekerjaan yang mengandung resiko (X) tidak ada informasi
+II.2.2.3 Memperhatikan kearifan lokal (X) tidak ada informasi🅰️
 
 
 
-###### ✅II.3.3.1 Nilai Tukar Petani (**KYK???** beda jauh..)
+II.3.1.1 Grafik sebaran umur petani (X) tidak ada informasi 🅰️
+
+
+
+II.3.1.2 Adanya program pemerintah daerah untuk mendorong tumbuhnya petani muda (X) tidak ada informasi 🅱️ (RPJMD)
+
+
+
+II.3.2.1 Penggunaan APD saat melakukan pekerjaan yang mengandung resiko (X) tidak ada informasi 🅰️
+
+
+
+###### ✅II.3.3.1 Nilai Tukar Petani (**KYK???** beda jauh..) 2️⃣ (BPS)
 
  	wow NTP ada di BPS!!! tapi per provinsi....
 
@@ -152,7 +166,7 @@ II.3.2.1 Penggunaan APD saat melakukan pekerjaan yang mengandung resiko (X) tida
 
 
 
-###### ✅II.3.3.2 Rasio rata-rata penghasilan petani per bulan dibandingkan dengan UMK setempat
+###### ✅II.3.3.2 Rasio rata-rata penghasilan petani per bulan dibandingkan dengan UMK setempat 1️⃣
 
  	definisi :
 
@@ -160,21 +174,21 @@ II.3.2.1 Penggunaan APD saat melakukan pekerjaan yang mengandung resiko (X) tida
 
 
 
-II.3.3.3 Pelatihan keterampilan pertanian (X) tidak ada informasi
+II.3.3.3 Pelatihan keterampilan pertanian (X) tidak ada informasi 🅰️
 
 
 
 
 
-#### Pilar 3 Sistem Pangan Lokal
+#### Pilar 3 Sistem Pangan Lokal bobot 20%
 
 
 
-###### ✅III.1.1.1 Pola Pangan Harapan (PPH)
+###### ✅III.1.1.1 Pola Pangan Harapan (PPH) 2️⃣ (BKP)
 
 
 
-###### ✅III.1.1.2 Indeks Shanon Weiner / Indeks Keanekaragaman
+###### ✅III.1.1.2 Indeks Shanon Weiner / Indeks Keanekaragaman 1️⃣
 
  	definisi :
 
@@ -182,41 +196,53 @@ II.3.3.3 Pelatihan keterampilan pertanian (X) tidak ada informasi
 
 
 
-###### ✅III.1.2.1 Asal Bahan Baku
+###### ✅III.1.2.1 Asal Bahan Baku 1️⃣
+
+&nbsp;	definisi :
+
+&nbsp;	data : 
 
 
 
-III.1.3.1 Kemampuan mengolah pangan (X) tidak cukup informasi
-
-III.1.3.2 Penyimpanan bahan pangan (X) tidak ada informasi
-
-III.1.4.1 Daya dukung pangan
+III.1.3.1 Kemampuan mengolah pangan (X) tidak cukup informasi 🅰️
 
 
 
-III.1.4.2 Perencanaan pangan pemerintah (X) tidak ada informasi
-
-III.1.4.3 Cadangan pangan pemerintah (X) tidak ada informasi
+III.1.3.2 Penyimpanan bahan pangan (X) tidak ada informasi 🅰️
 
 
 
-III.1.5.1 Terjadinya kasus keracunan pangan (X) tidak ada informasi
-
-III.1.5.2 Pembinaan dan pengawasan pelaksanaan standar, prosedur keamanan pangan oleh pemerintah
+###### ✅III.1.4.1 Daya dukung pangan 2️⃣ (BPS)
 
 
 
-#### Pilar 4 Perdagangan yang Adil
+III.1.4.2 Perencanaan pangan pemerintah (X) tidak ada informasi 🅱️ (RPJMD)
 
-IV.1.1.1 Terbukanya akses informasi harga dari hulu ke hilir
 
-IV.1.2.1 Harga panen yang menguntungkan petani
 
-IV.1.3.1 Adanya asuransi petani
+III.1.4.3 Cadangan pangan pemerintah (X) tidak ada informasi 🅱️ (RPJMD)
 
-IV.2.1.1 Porsi impor serelia dari total konsumsi serelia
 
-IV.2.1.2 Adanya bea masuk komoditas pangan dari luar (impor pangan)
+
+III.1.5.1 Terjadinya kasus keracunan pangan (X) tidak ada informasi 🅱️ (BPOM)
+
+
+
+III.1.5.2 Pembinaan dan pengawasan pelaksanaan standar, prosedur keamanan pangan oleh pemerintah (X) tidak ada informasi 🅱️ (BPOM)
+
+
+
+#### Pilar 4 Perdagangan yang Adil bobot 20%
+
+IV.1.1.1 Terbukanya akses informasi harga dari hulu ke hilir 🅰️
+
+IV.1.2.1 Harga panen yang menguntungkan petani 🅰️
+
+IV.1.3.1 Adanya asuransi petani(X) tidak ada informasi🅰️
+
+IV.2.1.1 Porsi impor serelia dari total konsumsi serelia 🅾️ (BPS)
+
+IV.2.1.2 Adanya bea masuk komoditas pangan dari luar (impor pangan) 🅾️ (UU, PP, Permen)
 
 
 
@@ -236,7 +262,7 @@ pilar 1		8				4
 
 pilar 2		17				6
 
-pilar 3		10
+pilar 3		10				4
 
 pilar 4		5
 
