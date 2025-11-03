@@ -26,7 +26,7 @@
 
 
 
-###### ✅I.2.1.1 Luas Tanah yang Dikuasai 1️⃣
+###### ✅I.2.1.1 Luas Tanah yang Dikuasai 1️⃣ PERSEN
 
  	**Justifikasi Akademik**
 
@@ -38,7 +38,7 @@
 
 
 
-###### ✅I.3.1.1 Ketersediaan Air untuk Budidaya 1️⃣
+###### ✅I.3.1.1 Ketersediaan Air untuk Budidaya 1️⃣ PERSEN
 
  	definisi :
 
@@ -50,7 +50,7 @@ I.3.1.2 Kelembagaan pengelola air (X) tidak ada informasi 🅰️
 
  
 
-###### ✅I.4.1.1 Asal Benih 1️⃣
+###### ✅I.4.1.1 Asal Benih 1️⃣ PERSEN
 
  	definisi :
 
@@ -76,7 +76,11 @@ I.5.1.2 Kemudahan Syarat melakukan Peminjaman (X) tidak ada informasi 🅰️
 
 
 
-###### ✅II.1.1.1 Jenis pestisida yang digunakan 1️⃣
+II.1.1.1 Jenis Pestisida yang Digunakan🅰️
+
+
+
+###### ✅II.1.1.2 Pengadaan pestisida 1️⃣ PERSEN (ubah jd pembelian pestisida??)
 
  	definisi :
 
@@ -84,15 +88,11 @@ I.5.1.2 Kemudahan Syarat melakukan Peminjaman (X) tidak ada informasi 🅰️
 
 
 
-II.1.1.2 Pengadaan pestisida (X) tidak ada informasi 🅰️
-
-
-
 II.1.1.3 Ambang batas Penggunaan Pestisida oleh Petani (X) tidak ada informasi 🅰️
 
 
 
-###### ✅II.1.2.1 Jenis Pupuk yang Digunakan 1️⃣
+✅II.1.2.1 Jenis Pupuk yang🅰️
 
  	definisi :
 
@@ -106,11 +106,17 @@ II.1.2.2 Dosis Pupuk Berimbang (X) tidak ada informasi 🅰️
 
 
 
-II.1.2.3 Pengadaan Pupuk (X) tidak ada informasi 🅰️
+###### ✅II.1.2.3 Pengadaan Pupuk 1️⃣ PERSEN (ubah jd pembelian pupuk??)
+
+ 	definisi :
+
+ 	data : Pupuk (Rp), sistem budidaya
 
 
 
-###### ✅II.1.3.1 Melakukan pemanfaatan limbah pertanian 1️⃣
+
+
+###### ✅II.1.3.1 Melakukan pemanfaatan limbah pertanian 1️⃣ PERSEN
 
  	definisi :
 
@@ -126,7 +132,7 @@ KERAGAMAN BIOTA TANAH DAN AIR?? I 2.1.2
 
 
 
-###### ✅II.2.2.1 Keragaman Jenis Tanaman (ini masih agak **ragu** karena bilangnya **satu musim**) 1️⃣
+###### ✅II.2.2.1 Keragaman Jenis Tanaman (ini masih agak **ragu** karena bilangnya **satu musim**) 1️⃣ PERSEN RAGU RAGU RAGU
 
  	definisi :
 
@@ -134,7 +140,7 @@ KERAGAMAN BIOTA TANAH DAN AIR?? I 2.1.2
 
 
 
-II.2.2.2 Pengembangan Musuh Alami Hama (sbnrnya bertolak belakang sm II.1.1.3, tp jd apa bedanya) 🅰️
+II.2.2.2 Pengembangan Musuh Alami Hama (X) tidak ada informasi🅰️
 
 
 
@@ -156,17 +162,13 @@ II.3.2.1 Penggunaan APD saat melakukan pekerjaan yang mengandung resiko (X) tida
 
 ###### ✅II.3.3.1 Nilai Tukar Petani (**KYK???** beda jauh..) 2️⃣ (BPS)
 
- 	wow NTP ada di BPS!!! tapi per provinsi....
-
- 	gapaham... apakah aku butuh mentor yg ngerti pertanian?
-
- 	definisi :
-
- 	data : penghasilan per bulan bertani \& konsumsi beli
+ 	pake yang di data BPS. coba cari kabupaten dulu kalau gaada baru pake yg prov
 
 
 
-###### ✅II.3.3.2 Rasio rata-rata penghasilan petani per bulan dibandingkan dengan UMK setempat 1️⃣
+
+
+###### ✅II.3.3.2 Rasio rata-rata penghasilan petani per bulan dibandingkan dengan UMK setempat 1️⃣ PERSEN
 
  	definisi :
 
@@ -198,9 +200,9 @@ II.3.3.3 Pelatihan keterampilan pertanian (X) tidak ada informasi 🅰️
 
 ###### ✅III.1.2.1 Asal Bahan Baku 1️⃣
 
-&nbsp;	definisi :
+ 	definisi :
 
-&nbsp;	data : 
+ 	data :
 
 
 
@@ -234,15 +236,17 @@ III.1.5.2 Pembinaan dan pengawasan pelaksanaan standar, prosedur keamanan pangan
 
 #### Pilar 4 Perdagangan yang Adil bobot 20%
 
-IV.1.1.1 Terbukanya akses informasi harga dari hulu ke hilir 🅰️
+IV.1.1.1 Terbukanya akses informasi harga dari hulu ke hilir (X) tidak ada informasi🅰️
 
-IV.1.2.1 Harga panen yang menguntungkan petani 🅰️
+IV.1.2.1 Harga panen yang menguntungkan petani (X) tidak ada informasi🅰️
 
-IV.1.3.1 Adanya asuransi petani(X) tidak ada informasi🅰️
+IV.1.2.2 Mekanisme Pembayaran
+
+IV.1.3.1 Adanya asuransi petani (X) tidak ada informasi🅰️
 
 IV.2.1.1 Porsi impor serelia dari total konsumsi serelia 🅾️ (BPS)
 
-IV.2.1.2 Adanya bea masuk komoditas pangan dari luar (impor pangan) 🅾️ (UU, PP, Permen)
+IV.2.1.2 Adanya bea masuk komoditas pangan dari luar (impor pangan) 🅾️ (UU, PP, Permen) => harusnya ada, skalanya sama semua (**dimasukin ga?**)
 
 
 
@@ -264,11 +268,11 @@ pilar 2		17				6
 
 pilar 3		10				4
 
-pilar 4		5
+pilar 4		5				1 (blm pasti)
 
 
 
-Total		40
+Total		40				14/15
 
 
 
@@ -369,4 +373,10 @@ konsumsi\_kg\_Daging\_Sapi\_Kerbau\_Kambing\_Babi,dll		23.305
 konsumsi\_kg\_Tahu\_dan\_Tempe				6.80267
 
 konsumsi\_kg\_Kacang-kacangan				1.75
+
+
+
+
+
+Pupuk, Pestisida/Herbisida/Fungisida, Benih, Upah Buruh, Sewa Alat dan Mesin Pertanian
 
